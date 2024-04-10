@@ -1,0 +1,1 @@
+wget http://nlp.cs.washington.edu/triviaqa/data/triviaqa-rc.tar.gz
